@@ -9,6 +9,7 @@ languages i know:
 <br>
 <img src="luau.svg" width="48" />
 <img src="html.svg" width="48" />
+<img src="css.svg" width="48" />
 
 languages i'm learning:
 <br>
